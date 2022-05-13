@@ -1,0 +1,33 @@
+{
+  "productList": [
+    {
+      "productName": "Egg Plant",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Good",
+      "date": "2022-04-30T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Goava",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Fresh",
+      "date": "2022-05-02T18:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "email": "hasan@gmail.com",
+    "pass": "12345"
+  }
+}
